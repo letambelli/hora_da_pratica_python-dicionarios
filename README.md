@@ -4,6 +4,8 @@ Como já vimos, programação é prática! Criamos mais uma lista de atividades 
 
 
 Exercícios
+
+
 1 - Crie um dicionário representando informações sobre uma pessoa, como nome, idade e cidade.
 
 2 - Utilizando o dicionário criado no item 1:
